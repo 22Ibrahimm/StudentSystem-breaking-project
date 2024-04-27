@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1714236708 source:c:\users\computec\desktop\c\studentsystem\main.c
+	"user.h"
+	"admin.h"
+	"admin.c"
+
+1714068582 c:\users\computec\desktop\c\studentsystem\user.h
+	"list.h"
+
+1714234711 c:\users\computec\desktop\c\studentsystem\list.h
+	<stdio.h>
+	<stdlib.h>
+
+1714235814 c:\users\computec\desktop\c\studentsystem\admin.h
+	"list.h"
+
+1714236462 c:\users\computec\desktop\c\studentsystem\admin.c
+
